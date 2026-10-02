@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Dark Mode Color Palette -->
+    <color name="dark_bg">#12131C</color>
+    <color name="dark_surface">#1E1E2E</color>
+    <color name="dark_surface_elevated">#2A2B40</color>
+    <color name="dark_primary">#6366F1</color>
+    <color name="dark_primary_variant">#4F46E5</color>
+    <color name="dark_text_primary">#F3F4F6</color>
+    <color name="dark_text_secondary">#9CA3AF</color>
+    <color name="dark_border">#373854</color>
+
+    <!-- Status Colors in Dark Mode -->
+    <color name="status_green_bg">#064E3B</color>
+    <color name="status_green_stroke">#059669</color>
+    <color name="status_green_text">#34D399</color>
+
+    <color name="status_red_bg">#7F1D1D</color>
+    <color name="status_red_stroke">#DC2626</color>
+    <color name="status_red_text">#FCA5A5</color>
+
+    <color name="status_amber_bg">#78350F</color>
+    <color name="status_amber_stroke">#D97706</color>
+    <color name="status_amber_text">#FDE68A</color>
+
+    <color name="status_purple_bg">#581C87</color>
+    <color name="status_purple_stroke">#9333EA</color>
+    <color name="status_purple_text">#E9D5FF</color>
+</resources>
